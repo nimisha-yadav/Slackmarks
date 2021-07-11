@@ -27,3 +27,4 @@ Just Press `Cmd + B` / `Ctrl + B`
 - A _notification_ comes from __bookmarks-bot__ 
 - All your bookmarks are saved in __bookmarks-bot__ chat window.
 
+- Blog Link - https://nimishayadav.medium.com/slackmarks-7ce688ae9fe0
