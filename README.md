@@ -1,5 +1,6 @@
 # Slackmarks
-> Do you wish to store a web page in Slack for personal reference?
+> Sometimes, we want to store important web-pages in our Slack personal workspace.
+> What if we can automate this ?
 Just Press `Cmd + B` / `Ctrl + B`
 
 ## How to achieve this?
@@ -22,3 +23,4 @@ Just Press `Cmd + B` / `Ctrl + B`
 - Or Right-click mouse and select `Slack this`
 - A _notification_ comes from __bookmarks-bot__ 
 - All your bookmarks are saved in __bookmarks-bot__ chat window.
+
