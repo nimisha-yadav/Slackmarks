@@ -3,6 +3,9 @@
 > What if we can automate this ?
 Just Press `Cmd + B` / `Ctrl + B`
 
+![Slack-bot-picture](https://user-images.githubusercontent.com/73909578/125204492-4035ad80-e29b-11eb-9611-7c475aaf49bc.png)
+
+
 ## How to achieve this?
 - ### Set up Slack Bot
   - Let's say your workspace name is "myspace"
