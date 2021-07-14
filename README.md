@@ -3,6 +3,7 @@
 > What if we can automate this ?
 Just Press `Cmd + B` / `Ctrl + B`
 
+
 ![Slack-bot-picture](https://user-images.githubusercontent.com/73909578/125204492-4035ad80-e29b-11eb-9611-7c475aaf49bc.png)
 
 
@@ -28,7 +29,7 @@ Just Press `Cmd + B` / `Ctrl + B`
 - All your bookmarks are saved in __bookmarks-bot__ chat window.
 
 ## Demo Video
-- Video Link - https://youtu.be/F6z6cWl5aLY
+- [Video Link](https://youtu.be/F6z6cWl5aLY)
 
 ## Blog Link
 - Blog Link - https://nimishayadav.medium.com/slackmarks-7ce688ae9fe0
