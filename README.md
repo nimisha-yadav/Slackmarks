@@ -1,7 +1,8 @@
 # Slackmarks
-> Sometimes, we want to store important web-pages in our Slack personal workspace.
+> Sometimes, we wish to store important web-pages in our Slack personal workspace.
 > What if we can automate this ?
 Just Press `Cmd + B` / `Ctrl + B`
+
 
 
 ![Slack-bot-picture](https://user-images.githubusercontent.com/73909578/125204492-4035ad80-e29b-11eb-9611-7c475aaf49bc.png)
@@ -17,7 +18,7 @@ Just Press `Cmd + B` / `Ctrl + B`
 
  - Clone this Repo.
  - __Change the Token and channel name__ in `config.js` accordingly.
- - Visit chrome settings & ensure that the Developer mode is turned on in extensions.
+ - Visit Chrome Settings & ensure that the Developer Mode is turned on in Extensions.
  - Click Load unpacked extension.
  - Select the directory.
  - :tada: It's done!
