@@ -31,5 +31,5 @@ Just Press `Cmd + B` / `Ctrl + B`
 ## Demo Video
 - [Video Link](https://youtu.be/F6z6cWl5aLY)
 
-## Blog Link
-- Blog Link - https://nimishayadav.medium.com/slackmarks-7ce688ae9fe0
+## Medium Blog
+- [Blog Link](https://nimishayadav.medium.com/slackmarks-7ce688ae9fe0)
