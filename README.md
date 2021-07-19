@@ -14,7 +14,7 @@
   - Head to Slack apps > https://myspace.slack.com/apps
   - Search for `Bots`
   - Click `Add Configuration` to create a new bot.
-  - Give it a username _say bookmarks-bot_ and purpose.
+  - Give it a username (_say bookmarks-bot_) and purpose.
   - A Bot token starting with `xoxb-` will be generated.
 
  - Clone this Repo.
