@@ -1,7 +1,7 @@
 # Slackmarks
 > Sometimes, we wish to store important web-pages in our Slack personal workspace.
 > What if we can automate this ?
-Just Press `Cmd + B` / `Ctrl + B`
+
 
 
 
@@ -10,10 +10,11 @@ Just Press `Cmd + B` / `Ctrl + B`
 
 ## How to achieve this?
 - ### Set up Slack Bot
-  - Let's say your workspace name is "myspace"
+  - Create a workspace in Slack.
   - Head to Slack apps > https://myspace.slack.com/apps
   - Search for `Bots`
-  - Click `Add Configuration` and give it a username (say _bookmarks-bot_), purpose, etc.
+  - Click `Add Configuration` to create a new bot.
+  - Give it a username and purpose.
   - A Bot token starting with `xoxb-` will be generated.
 
  - Clone this Repo.
