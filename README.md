@@ -1,5 +1,5 @@
 # Slackmarks
-> Sometimes, we wish to store important web-pages in our Slack personal workspace.
+> Sometimes, we wish to store important chrome web-pages in our Slack personal workspace.
 > What if we can automate this?
 
 
