@@ -28,7 +28,7 @@
 - Press `Cmd + B`
 - Or Right-click mouse and select `Slack this`
 - A _notification_ comes from __bookmarks-bot__ 
-- All your bookmarks are saved in __bookmarks-bot__ chat window.
+- All your bookmarks are saved in __bookmarks-bot__ chat window!
 
 ## Demo Video
 - [Video Link](https://youtu.be/F6z6cWl5aLY)
