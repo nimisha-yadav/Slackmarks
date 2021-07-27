@@ -22,11 +22,8 @@
  - Visit Chrome Settings & ensure that the Developer Mode is turned on in Extensions.
  - Click Load unpacked extension.
  - Select the directory.
- - :tada: It's done!
-
 ## How to use
-- Press `Cmd + B`
-- Or Right-click mouse and select `Slack this`
+- Right-click mouse and select `Slack this`
 - A _notification_ comes from __bookmarks-bot__ 
 - All your bookmarks are saved in __bookmarks-bot__ chat window!
 
@@ -35,3 +32,4 @@
 
 ## Medium Blog
 - [Blog Link](https://nimishayadav.medium.com/slackmarks-7ce688ae9fe0)
+
