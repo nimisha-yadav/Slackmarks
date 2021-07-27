@@ -22,6 +22,7 @@
  - Visit Chrome Settings & ensure that the Developer Mode is turned on in Extensions.
  - Click Load unpacked extension.
  - Select the directory.
+ - :tada: The extension is ready to use!
 ## How to use
 - Right-click mouse and select `Slack this`
 - A _notification_ comes from __bookmarks-bot__ 
