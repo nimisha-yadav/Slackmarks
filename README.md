@@ -1,6 +1,6 @@
 # Slackmarks
 > Sometimes, we wish to store important chrome web-pages in our Slack personal workspace.
-> What if we can automate this task and instantly send web-pages with just a single click?
+> What if we could automate this task and instantly send web-pages with just a single click?
 
 
 
