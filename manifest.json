@@ -1,7 +1,7 @@
 {
   "manifest_version": 2,
   "name" : "Slackmarks",
-  "description" : "Sends Bookmarks to Slack",
+  "description" : "Sends Chrome Page to Slack",
   "version" : "0.0.1",
   "permissions": [
     "tabs",
